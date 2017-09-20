@@ -14,9 +14,9 @@
         "whirpoolx",
         "blake2s"
     ],
-    "homepage": "https://github.com/krilson/node-stratum-pool",
+    "homepage": "https://github.com/hakimfx/node-stratum-pool",
     "bugs": {
-        "url": "https://github.com/krilson/node-stratum-pool/issues"
+        "url": "https://github.com/hakimfx/node-stratum-pool/issues"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -27,10 +27,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/krilson/node-stratum-pool.git"
+        "url": "https://github.com/hakimfx/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/krilson/node-multi-hashing.git",
+        "multi-hashing": "git://github.com/hakimfx/node-multi-hashing.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
